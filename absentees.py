@@ -1,4 +1,4 @@
-n= {int(i) for i in range(1,70)}
+n= {int(i) for i in range(1,59)}
 le = {int(i) for i in range(1,13)}
 #print(n)
 
